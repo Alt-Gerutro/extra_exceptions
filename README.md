@@ -1,9 +1,2 @@
-# Extra Exceptions
-Extra Exceptions - library for those who lack the usual python exceptions.  
-[Documentation](https://gerutro.gitbook.io/documentation/)
-
-#### To install `pip install extraexceptions` 
-
-#### To import `import extraexceptions` or `from extraexceptons import *`  
-
-> Repository recovered from my another account.
+# Extra Exceptions Reloaded
+More info comming soon...
